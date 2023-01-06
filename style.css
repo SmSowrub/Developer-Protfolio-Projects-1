@@ -90,3 +90,137 @@ nav button:hover{
     
     
 }
+
+.About-me{
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 827px;
+    height: 120px;
+    margin: 0 auto;
+    background-color: #FFF8F3;
+    padding: 120px 155px 300px;  
+    border-radius: 10px;
+    margin-top: 50px;
+
+}
+.About-me h2{
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+   padding-bottom: 40px;
+}
+.About-me p{
+    color: #757575;
+    font-size: 18px;
+}
+.Information{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+   
+}
+#name{
+    color: #757575;
+}
+#others{
+    color: black;
+    font-weight: 600;
+}
+.what-i-do{
+    text-align: center;
+    width: 827px;
+    height: 120px;
+    margin: 0 auto;
+    padding: 130px 155px;
+}
+.what-i-do p{
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 30px;
+    color: #757575;
+}
+.what-i-do h2{
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
+}
+.library{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.react{
+    width: 267px;
+    height: 377px;
+    left: 230px;
+    top: 1865px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+.react-contant{
+    width: 204px;
+    height: 243px;
+    padding: 10px;
+}
+.react-contant img{
+    padding: 20px 10px;
+}
+.react-contant h5{
+    padding-bottom: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #181818;
+
+}
+
+.summary{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    text-align: center;
+    color: #181818;
+
+}
+.contant-body{
+    width: 1140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: 180px;
+}
+.contant-text{
+    margin-top: 80px;
+    width: 511px;
+    height: 175px;
+   
+   
+}
+.contant-text h3{
+    margin-left: 40px;
+}
+article{
+    padding: 10px 20px;
+   
+}
+article p{
+    color: #757575;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+article small{
+    color: #757575;
+   
+}
+.borders{
+    border-bottom: 1px solid skyblue;
+    width: 500px;
+
+}
